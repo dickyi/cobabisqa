@@ -30,7 +30,7 @@ public class Main {
         
         Bunga_AAGHHH Ahh = new Bunga_AAGHHH();
 
-        Ahh.setnama_ilmiah("Anjing");
+        Ahh.setnama_ilmiah("Anjing Babiii");
         Ahh.setWarna("Babi");
         Ahh.setIklim("Kethek");
         Ahh.setTanah("Hiuuu");
