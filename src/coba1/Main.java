@@ -42,6 +42,21 @@ public class Main {
         System.out.println("Iklim             : " + Ahh.getIklim());
         System.out.println("Tanah             : " + Ahh.getTanah());
         System.out.println("Hewan Penyerbuk   : " + Ahh.getHewan_penyerbuk());
+        
+        Bunga_Uhhhh HHHH = new Bunga_Uhhhh();
+
+        HHHH.setnama_ilmiah("Anjing");
+        HHHH.setWarna("Babi");
+        HHHH.setIklim("Kethek");
+        HHHH.setTanah("Hiuuu");
+        HHHH.setHewan_penyerbuk("Paus");
+
+        System.out.println("n\t\t\tBunga Bangkee");
+        System.out.println("Nama Ilmiah       : " + HHHH.getnama_ilmiah());
+        System.out.println("Warna             : " + HHHH.getWarna());
+        System.out.println("Iklim             : " + HHHH.getIklim());
+        System.out.println("Tanah             : " + HHHH.getTanah());
+        System.out.println("Hewan Penyerbuk   : " + HHHH.getHewan_penyerbuk());
     }
 
 }
